@@ -6,7 +6,7 @@
 
 Projeto que desenvolvi durante o evento Next Level Week da Rocketseat 🚀
 
-[Clique aqui para acessar o projeto](https://kytexz.github.io/nlw-esports-explorer/)
+[Clique aqui para acessar o projeto](https://gabrielmisato.github.io/nlw-esports-explorer/)
 
 
 ## 🎮 Como foi participar do evento
